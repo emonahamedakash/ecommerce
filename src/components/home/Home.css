@@ -1,0 +1,22 @@
+.home{
+    background-color: #EAEDED;
+}
+.listTitle{
+    margin-top: 8px;
+    padding: 5px;
+}
+.seeMore{
+    font-size: 14px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    word-spacing: 0px;
+    color: #f85606;
+    border: 1px solid #f85606;
+}
+.productList{
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    gap: 5px;
+}

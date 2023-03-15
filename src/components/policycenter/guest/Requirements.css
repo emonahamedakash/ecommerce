@@ -1,0 +1,14 @@
+.requirements-root{
+    background-color: #EAEDED;
+    justify-content: center;
+}
+.requirements{
+    background-color: white;
+    align-items: center;
+    padding: 30px;
+    padding-top: 10px;
+}
+
+.translate{
+    margin-top: 30px;
+}

@@ -1,0 +1,26 @@
+.wishlistItems{
+    display: flex;
+    margin-bottom: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.wishlistLogo{
+    width: 100px;
+}
+.wishlistLogo:hover{
+    cursor: pointer;
+}
+
+.productTitle{
+    width: 350px;
+    font-size: 18px;
+    line-height: 18px;
+    word-spacing: 0px;
+    font-weight: 400;
+    white-space:nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

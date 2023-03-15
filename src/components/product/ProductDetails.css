@@ -1,0 +1,59 @@
+.productDetails{
+    width: 100%;
+}
+.upperPart{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.productImage{
+    flex: 50%;
+}
+.productDetails{
+    flex: 50%;
+}
+.productDetails p{
+    margin-bottom: 0;
+}
+.description div{
+    padding: 10px;
+    text-align: left;
+
+    width: 100%;
+}
+.description div table{
+    width: 100%;
+    
+}
+.description table tr td, th{
+    border: 1px solid black;
+}
+.varients{
+    background-color: rgb(218, 213, 213);
+}
+.addButton button{
+    width: 100%;
+    margin-top: 10px;
+}
+.bottomPart{
+    background-color: #EAEDED;
+    padding-bottom: 40px;
+}
+.relatedProducts{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+@media only screen and (max-width: 600px) {
+    .upperPart{
+        flex-wrap: wrap;
+    }
+    .productImage{
+        flex: 100%;
+    }
+    .productDetails{
+        flex: 100%;
+        text-align: center;
+    }
+}

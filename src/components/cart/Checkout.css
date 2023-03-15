@@ -1,0 +1,25 @@
+.checkout{
+    min-height: 70vh;
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.cartItemList{
+    margin-bottom: 5px;
+    justify-content: center;
+    display: flex;
+    padding: 15px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.cartLogo{
+    margin-right: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.productSummery{
+    margin-right: 15px;
+}
+
+.total{
+    padding: 20px;
+    background-color: #EAEDED;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}

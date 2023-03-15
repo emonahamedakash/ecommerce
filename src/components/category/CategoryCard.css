@@ -1,0 +1,7 @@
+.categoryCardContainer{
+    cursor: pointer;
+}
+.categoryImg{
+    height: 125px;
+    width: 125px;
+}

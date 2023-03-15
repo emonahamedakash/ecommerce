@@ -1,0 +1,40 @@
+.category-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.subCategoryList{
+    background-color: white;
+    width: 20%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.productPart{
+    width: 80%;
+   
+}
+.categoryProductList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    background-color: #EAEDED;
+    padding-top: 15px;
+    margin-left: 0;
+    margin-right: 0;
+}
+@media only screen and (max-width: 600px){
+    .category-container{
+        flex-direction: column;
+        
+    }
+    .subCategoryList{
+        width: 100%;
+    }
+    .productPart{
+        width: 100%;
+    }
+    .categoryProductList{
+        
+    }
+}

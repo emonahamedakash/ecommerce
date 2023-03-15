@@ -1,0 +1,39 @@
+.allcategory-container{
+  width: 100%;
+  padding: 15px;
+  min-height: 70vh;
+}
+.allcategory{
+    display: flex;
+    gap: 10px;
+
+}
+.allcategoryCard{
+    min-width: 200px;
+    border-radius: 15px;
+    text-align: center;
+    padding:5px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.allcategoryLink{
+    font-family: 'Poppins', sans-serif;
+}
+.allcategoryLink:hover{
+    color: orange;
+}
+@media only screen and (max-width: 600px) {
+    .allcategory-container{
+        
+    }
+    .allcategory{
+        flex-wrap: wrap;
+        
+    }
+    .allcategoryCard{
+        flex: 45%;
+        width: 190px;
+        height: 200px;
+
+    }
+
+}

@@ -1,0 +1,112 @@
+.editProfile{
+    /* text-align: center; */
+    width: 100%;
+}
+.editProfile h2{
+    color: teal;
+}
+.editProfile h3{
+    text-transform: uppercase;
+}
+.editProfile form{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    padding: 25px;
+}
+.editProfile form div{
+    margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 600px){
+    .editProfile form{
+        text-align: center;
+    }
+    .editProfile form div{
+    }
+}
+/* .editProfile form label{
+    font-size: 20px;
+}
+.editProfile form input{
+    width: 300px;
+}
+.editProfile input{
+    border: 1px solid gray;
+    border-radius: 0;
+    background-color: white;
+    padding: 5px 10px;
+
+}
+.formSubmit{
+    margin: 0 auto;
+} */
+
+/* form codepen */
+/* form div{
+    clear: both;
+    overflow: hidden;
+    padding: 1px;
+    margin: 0 0 10px 0;
+}
+form > div > label{
+    width: 25%;
+  float: left;
+  padding-right: 10px;
+}
+
+input[type=text],
+input[type=email],
+input[type=url],
+input[type=password],
+textarea {
+	width: 100%;
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+input[type=text],
+input[type=email],
+input[type=url],
+input[type=password] {
+  width: 50%;
+}
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=url]:focus,
+input[type=password]:focus,
+textarea:focus {
+  outline: 0;
+  border-color: #4697e4;
+}
+
+
+@media (max-width: 600px) {
+    form > div {
+      margin: 0 0 15px 0; 
+    }
+    form > div > label,
+    legend {
+        width: 100%;
+      float: none;
+      margin: 0 0 5px 0;
+    }
+    form > div > div,
+    form > div > fieldset > div {
+      width: 100%;
+      float: none;
+    }
+    input[type=text],
+    input[type=email],
+    input[type=url],
+    input[type=password],
+    textarea,
+    select {
+      width: 100%; 
+    }
+  }
+  @media (min-width: 1200px) {
+    form > div > label,
+      legend {
+        text-align: right;
+    }
+  } */

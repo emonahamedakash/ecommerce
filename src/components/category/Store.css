@@ -1,0 +1,16 @@
+.store-container{
+    width: 100;
+    margin-left: 0;
+    margin-right: 0;
+}
+.store-container h2{
+    text-align: center;
+}
+.store{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    background-color: #EAEDED;
+    padding-top: 10px;
+
+}

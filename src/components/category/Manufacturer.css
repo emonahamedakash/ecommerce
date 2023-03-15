@@ -1,0 +1,16 @@
+.manufacturer-container{
+    width: 100;
+    margin-left: 0;
+    margin-right: 0;
+}
+.manufacturer-container h2{
+    text-align: center;
+}
+.manufacturer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    background-color: #EAEDED;
+    padding-top: 10px;
+
+}

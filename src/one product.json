@@ -1,0 +1,246 @@
+{
+    "id": 14,
+    "createdBy": "admin",
+    "name": "Sony 420",
+    "title": "Sony 420",
+    "regularPrice": "4300",
+    "salePrice": "3900",
+    "quantity": 10,
+    "salePriceFrom": "2022-07-31 00:00:00.0",
+    "salePriceTo": "2022-08-10 00:00:00.0",
+    "taxStatus": "Shipping Only",
+    "taxClass": "Standard",
+    "cashbackType": null,
+    "cashback": "",
+    "weight": ".7",
+    "length": "",
+    "width": "",
+    "height": "",
+    "shippingClass": "No shipping class",
+    "shippingPolicy": "",
+    "refundPolicy": "",
+    "exchangePolicy": "",
+    "description": "<table class=\"data-table flex-table\"><thead><tr><td class=\"heading-row\" colspan=\"3\"><div>Technical Specification</div></td></tr></thead><tbody><tr><td class=\"name\"><div>Driver Magnet</div></td><td class=\"value\"><div>Neodymium</div></td></tr><tr><td class=\"name\"><div>Frequency Range</div></td><td class=\"value\"><div>4Hz-40,000Hz</div></td></tr><tr><td class=\"name\"><div>Sensitivity</div></td><td class=\"value\"><div>105dB / mW (1kHz) (when connecting via the headphone cable with the unit turned on) , 101dB / mW (1kHz) (when connecting via the headphone cable with the unit turned off)</div></td></tr><tr><td class=\"name\"><div>Input Jack</div></td><td class=\"value\"><div>Gold-plated L-shaped stereo mini plug</div></td></tr><tr><td class=\"name\"><div>Driver Diameter</div></td><td class=\"value\"><div>40mm, dome type (CCAW Voice coil)</div></td></tr><tr><td class=\"name\"><div>Connectivity</div></td><td class=\"value\"><div>BLUETOOTH: version 5.0<br>EFFECTIVE RANGE: Line of sight approx.30ft (10m)<br></div></td></tr><tr><td class=\"name\"><div>Others</div></td><td class=\"value\"><div>NOISE CANCELING ON/OFF SWITCH: Yes<br>AUTOMATIC AI NOISE CANCELLING: Yes</div></td></tr></tbody></table><table class=\"data-table flex-table\"><thead><tr><td class=\"heading-row\" colspan=\"3\"><div>Physical Specification</div></td></tr></thead><tbody><tr><td class=\"name\"><div>Color</div></td><td class=\"value\"><div>Black (WH1000XM4/BME)<br>Blue (WH1000XM4/LME)<br>Silver (WH1000XM4/SME)</div></td></tr><tr><td class=\"name\"><div>Cable Length</div></td><td class=\"value\"><div>Approx. 1.2m (supplied headphone cable)</div></td></tr></tbody></table><p><br></p>",
+    "shortDescription": "<h2>Sony MDRZX110NC Noise Canceling Stereo Headphones<br></h2><p>The Sony MDRZX110NC Noise Canceling Stereo Headphones employ 30mm dynamic dome drivers with PET diaphragms and neodymium magnets in a closed-back supra-aural \"on-ear\" design to provide an extended low-frequency response of 10 to 22,000 Hz with a sensitivity of 115 dB/mW when using active noise cancellation and 110 dB/mW when using passive noise cancellation. The active noise-canceling circuit is controlled by an earcup-mounted button and uses a single AAA battery to suppress ambient noise by up to 95 percent or 13 decibels. When powered by an LR03 alkaline battery, the noise-canceling circuit can run for up to 80 hours and 40 hours when powered by an R03 manganese battery. When the battery is depleted, the headphones will continue to work passively without active noise suppression. The earcups may swivel flat and fold up into a more compact form factor for increased mobility. A flat Y-type cable design aids in tangle prevention and terminates in a gold-plated L-shaped stereo mini-plug. The Sony MDRZX110NC Headphones have no warranty</p><p><br></p>",
+    "processingTime": "1-3 business days",
+    "category": {
+        "id": 1,
+        "name": "Electronics",
+        "updatedAt": 1658106089000,
+        "createdAt": 1658106089000,
+        "uuid": "c7893684-3c2e-4d41-b5d9-e41ebea3e73a",
+        "image": {
+            "id": 89,
+            "imageUrl": "/opt/tomcat/halal-food/files/images/CATEGORY/fcbded5f-cdb5-45f3-b2d8-42b66fc4034e-electronics.jpg",
+            "thumbUrl": "/opt/tomcat/halal-food/files/thumbs/CATEGORY/fcbded5f-cdb5-45f3-b2d8-42b66fc4034e-electronics.jpg"
+        }
+    },
+    "subCategory": {
+        "id": 6,
+        "name": "Headphones",
+        "updatedAt": 1658340443000,
+        "createdAt": 1658340443000,
+        "uuid": "2fbb8f24-8e0c-44a9-8754-55263c49a63c",
+        "category": {
+            "id": 1,
+            "name": "Electronics",
+            "updatedAt": 1658106089000,
+            "createdAt": 1658106089000,
+            "uuid": "c7893684-3c2e-4d41-b5d9-e41ebea3e73a",
+            "image": {
+                "id": 89,
+                "imageUrl": "/opt/tomcat/halal-food/files/images/CATEGORY/fcbded5f-cdb5-45f3-b2d8-42b66fc4034e-electronics.jpg",
+                "thumbUrl": "/opt/tomcat/halal-food/files/thumbs/CATEGORY/fcbded5f-cdb5-45f3-b2d8-42b66fc4034e-electronics.jpg"
+            }
+        },
+        "image": {
+            "id": 101,
+            "imageUrl": "/opt/tomcat/halal-food/files/images/SUBCATEGORY/190d849d-6154-4713-9dcd-29a53ba8d8a8-headphones.jpeg",
+            "thumbUrl": "/opt/tomcat/halal-food/files/thumbs/SUBCATEGORY/190d849d-6154-4713-9dcd-29a53ba8d8a8-headphones.jpeg"
+        }
+    },
+    "manufacturer": {
+        "id": 5,
+        "name": "Sony",
+        "updatedAt": 1658587735000,
+        "createdAt": 1658587735000,
+        "uuid": "8b3d82d8-426f-400e-941f-07ef49f63b57",
+        "image": {
+            "id": 107,
+            "imageUrl": "/opt/tomcat/halal-food/files/images/MANUFACTURER/35559896-1f5f-42ac-b85a-0325bea66c4d-sony-logo.jpg",
+            "thumbUrl": "/opt/tomcat/halal-food/files/thumbs/MANUFACTURER/35559896-1f5f-42ac-b85a-0325bea66c4d-sony-logo.jpg"
+        }
+    },
+    "productVariants": [
+        {
+            "id": 18,
+            "quantity": 10,
+            "regularPrice": "9500",
+            "salePrice": "",
+            "salePriceFrom": "",
+            "salePriceTo": "",
+            "cashbackType": null,
+            "cashback": "",
+            "featureDetails": [
+                {
+                    "id": 9,
+                    "name": "16GB",
+                    "feature": {
+                        "id": 2,
+                        "name": "ROM"
+                    }
+                },
+                {
+                    "id": 37,
+                    "name": "Variation 1",
+                    "feature": {
+                        "id": 6,
+                        "name": "Test Attribute"
+                    }
+                },
+                {
+                    "id": 17,
+                    "name": "Phantom Black",
+                    "feature": {
+                        "id": 3,
+                        "name": "Color"
+                    }
+                },
+                {
+                    "id": 29,
+                    "name": "S rank(Unused item)",
+                    "feature": {
+                        "id": 4,
+                        "name": "Product Rank"
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "1GB",
+                    "feature": {
+                        "id": 1,
+                        "name": "RAM"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "quantity": 25,
+            "regularPrice": "9000",
+            "salePrice": "8800",
+            "salePriceFrom": "2022-07-31",
+            "salePriceTo": "2022-10-14",
+            "cashbackType": "Amount",
+            "cashback": "50",
+            "featureDetails": [
+                {
+                    "id": 2,
+                    "name": "2GB",
+                    "feature": {
+                        "id": 1,
+                        "name": "RAM"
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "32GB",
+                    "feature": {
+                        "id": 2,
+                        "name": "ROM"
+                    }
+                },
+                {
+                    "id": 29,
+                    "name": "S rank(Unused item)",
+                    "feature": {
+                        "id": 4,
+                        "name": "Product Rank"
+                    }
+                },
+                {
+                    "id": 38,
+                    "name": "Variation 2",
+                    "feature": {
+                        "id": 6,
+                        "name": "Test Attribute"
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Sky Blue",
+                    "feature": {
+                        "id": 3,
+                        "name": "Color"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "quantity": 20,
+            "regularPrice": "8700",
+            "salePrice": "8000",
+            "salePriceFrom": "2022-08-01",
+            "salePriceTo": "2022-11-19",
+            "cashbackType": "Percent",
+            "cashback": "5",
+            "featureDetails": [
+                {
+                    "id": 9,
+                    "name": "16GB",
+                    "feature": {
+                        "id": 2,
+                        "name": "ROM"
+                    }
+                },
+                {
+                    "id": 29,
+                    "name": "S rank(Unused item)",
+                    "feature": {
+                        "id": 4,
+                        "name": "Product Rank"
+                    }
+                },
+                {
+                    "id": 38,
+                    "name": "Variation 2",
+                    "feature": {
+                        "id": 6,
+                        "name": "Test Attribute"
+                    }
+                },
+                {
+                    "id": 22,
+                    "name": "Red",
+                    "feature": {
+                        "id": 3,
+                        "name": "Color"
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "1GB",
+                    "feature": {
+                        "id": 1,
+                        "name": "RAM"
+                    }
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "store": {
+        "id": 5,
+        "name": "Hero Alom Store",
+        "address": "Gulsan 2, Dhaka, Bangladesh",
+        "email": "heroalom@gmail.com",
+        "contactNo": "01712134679",
+        "establishedYear": "2016",
+        "storeLogoImageUrl": null,
+        "storeLogoThumbnailUrl": null,
+        "storeBannerImageUrl": null,
+        "storeBannerThumbnailUrl": null
+    },
+    "live": true
+}

@@ -1,0 +1,12 @@
+.empty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    height: 70vh;
+    color: rgba(234, 1, 1, 0.808);
+}
+.emptyIcon{
+    font-size: 45px;
+}
